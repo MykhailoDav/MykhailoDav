@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/mykhailo-davydenko-130423320/">
 <img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/LinkedIn.png" height="40" width="150">
 </a>
-<a href="Gmail:davudenko.mukhailo@gmail.com">
+<a href="mailto:davudenko.mukhailo@gmail.com">
 <img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/Gmail.logo.png" height="40" width="150">
 </a>
 </div>
