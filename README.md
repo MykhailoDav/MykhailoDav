@@ -7,10 +7,10 @@
 - 📫 You can reach me on [Telegram](https://t.me/myhailo_dav) or write to me by [email](davudenko.mukhailo@gmail.com)
 <div>
 <a href="https://www.linkedin.com/in/mykhailo-davydenko-130423320/">
-<img src="https://github.com/MykhailoDav/MykhailoDav/tree/main/Images/LinkedIn.png" height="40" width="150">
+<img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/LinkedIn.png" height="40" width="150">
 </a>
-<a href="davudenko.mukhailo@gmail.com">
-<img src="https://github.com/MykhailoDav/MykhailoDav/tree/main/Images/Gmail.logo.png" height="40" width="150">
+<a href="Gmail:davudenko.mukhailo@gmail.com">
+<img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/Gmail.logo.png" height="40" width="150">
 </a>
 </div>
 <!---
