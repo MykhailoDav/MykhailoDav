@@ -3,10 +3,8 @@
 
 - 👋 I’m @MykhailoDav
 - 👀 I’m interested in app development with .NET MAUI, DevOps engineering, and embedded systems
-- 🌱 I’m currently working with C#, learning C++ and python
+- 🌱 I’m currently working with C#, learning C/C++ 
 - 💞️ I’m looking to collaborate on .NET MAUI projects
-- ⚡ Fun fact: I was born with a soldering iron in my hand!
-
 
 ## You can reach me on:
 <div>
