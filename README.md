@@ -8,7 +8,7 @@
 
 ## You can reach me on:
 <div>
-<a href="https://www.linkedin.com/in/mykhailo-davydenko-130423320/">
+<a href="https://www.linkedin.com/in/mykhailo-davydenko/">
 <img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/linkedin.svg" height="40" width="150">
 </a>
 <a href="mailto:davudenko.mukhailo@gmail.com">
