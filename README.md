@@ -30,7 +30,7 @@ I work mainly with `.Net MAUI`
 <p>
     <img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/dotnet_bot.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
-    <img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/python.svg" width="50" height="50" />
+    <img src="https://github.com/MykhailoDav/MykhailoDav/blob/main/Images/python.png" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
