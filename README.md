@@ -21,18 +21,12 @@
 public class Mykhailo : IDeveloper
 {
     public string Role         => "Application Engineer";
-    public string[] Stack      => [".NET MAUI", "C#", "XAML"];
-    public string[] Learning   => ["Python", "C/C++"];
+    public string[] Stack      => [".NET MAUI", "C#", "XAML", "Python", "C/C++"];
     public string[] Interests  => ["Cross-platform apps", "DevOps", "Embedded systems"];
     public string Collaborate  => "Open to .NET MAUI projects";
     public string Location     => "Ukraine 🇺🇦";
 }
 ```
-
-- 🔭 Currently building cross-platform apps with **.NET MAUI**
-- 🌱 Deepening my knowledge in **Python** and **C/C++**
-- 🤝 Open to collaborating on **.NET MAUI** and open-source projects
-- ⚡ Fun fact: I care as much about clean XAML as I do about clean code
 
 ---
 
