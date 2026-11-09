@@ -1,36 +1,8 @@
-<h1 align="center">
-  <a href="https://github.com/MykhailoDav">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mykhailo+%E2%98%95;Application+Engineer+%7C+.NET+MAUI+Developer;Cross-platform+%7C+DevOps+%7C+Embedded" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi, I'm Mykhailo 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mykhailo-davydenko/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" />
-  </a>
-  <a href="mailto:davudenko.mukhailo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <b>.NET MAUI developer</b> · contributor to <a href="https://github.com/dotnet/maui">dotnet/maui</a> · mobile apps that talk to hardware
 </p>
-
----
-
-### 👨‍💻 About Me
-
-```csharp
-public class Mykhailo : IDeveloper
-{
-    public string Role         => "Application Engineer";
-    public string[] Stack      => [".NET MAUI", "C#", "XAML", "Python", "C/C++"];
-    public string[] Interests  => ["Cross-platform apps", "DevOps", "Embedded systems"];
-    public string Collaborate  => "Open to .NET MAUI projects";
-    public string Location     => "Ukraine 🇺🇦";
-}
-```
-
----
-
-### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
@@ -40,33 +12,54 @@ public class Mykhailo : IDeveloper
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjU4My4wNjNhMS41IDEuNSAwIDAwLTEuMDMyLjM5MiAxLjUgMS41IDAgMDAtLjAwMSAwQS44OC44OCAwIDAwMTYuNS41TDguNTI4IDkuMzE2IDMuODc1IDUuNWwtLjQwNy0uMzVhMSAxIDAgMDAtMS4wMjQtLjE1NCAxIDEgMCAwMC0uMDEyLjAwNWwtMS44MTcuNzVhMSAxIDAgMDAtLjA3Ny4wMzYgMSAxIDAgMDAtLjA0Ny4wMjggMSAxIDAgMDAtLjAzOC4wMjIgMSAxIDAgMDAtLjA0OC4wMzQgMSAxIDAgMDAtLjAzLjAyNCAxIDEgMCAwMC0uMDQ0LjAzNiAxIDEgMCAwMC0uMDM2LjAzMyAxIDEgMCAwMC0uMDMyLjAzNSAxIDEgMCAwMC0uMDMzLjAzOCAxIDEgMCAwMC0uMDM1LjA0NCAxIDEgMCAwMC0uMDI0LjAzNCAxIDEgMCAwMC0uMDMyLjA1IDEgMSAwIDAwLS4wMi4wMzUgMSAxIDAgMDAtLjAyNC4wNSAxIDEgMCAwMC0uMDIuMDQ1IDEgMSAwIDAwLS4wMTYuMDQ0IDEgMSAwIDAwLS4wMTYuMDQ3IDEgMSAwIDAwLS4wMTUuMDU1IDEgMSAwIDAwLS4wMS4wNCAxIDEgMCAwMC0uMDA4LjA1NCAxIDEgMCAwMC0uMDA2LjA1QTEgMSAwIDAwMCA2LjY2OHYxMC42NjZhMSAxIDAgMDAuNjE1LjkxN2wxLjgxNy43NjRhMSAxIDAgMDAxLjAzNS0uMTY0bC40MDgtLjM1IDQuNjUzLTMuODE1IDcuOTczIDguODE1YTEuNSAxLjUgMCAwMC4wNzIuMDY1IDEuNSAxLjUgMCAwMC4wNTcuMDUgMS41IDEuNSAwIDAwLjA1OC4wNDIgMS41IDEuNSAwIDAwLjA2My4wNDQgMS41IDEuNSAwIDAwLjA2NS4wMzggMS41IDEuNSAwIDAwLjA2NS4wMzYgMS41IDEuNSAwIDAwLjA2OC4wMzEgMS41IDEuNSAwIDAwLjA3LjAzIDEuNSAxLjUgMCAwMC4wNzMuMDI1IDEuNSAxLjUgMCAwMC4wNjYuMDIgMS41IDEuNSAwIDAwLjA4LjAyIDEuNSAxLjUgMCAwMC4wNjguMDE0IDEuNSAxLjUgMCAwMC4wNzUuMDEgMS41IDEuNSAwIDAwLjA3NS4wMDggMS41IDEuNSAwIDAwLjA3My4wMDMgMS41IDEuNSAwIDAwLjA3NyAwIDEuNSAxLjUgMCAwMC4wNzgtLjAwNSAxLjUgMS41IDAgMDAuMDY3LS4wMDcgMS41IDEuNSAwIDAwLjA4Ny0uMDE1IDEuNSAxLjUgMCAwMC4wNi0uMDEyIDEuNSAxLjUgMCAwMC4wOC0uMDIyIDEuNSAxLjUgMCAwMC4wNjgtLjAyIDEuNSAxLjUgMCAwMC4wNy0uMDI4IDEuNSAxLjUgMCAwMC4wOS0uMDM3bDQuOTQ0LTIuMzc3YTEuNSAxLjUgMCAwMC40NzYtLjM2MiAxLjUgMS41IDAgMDAuMDktLjExMiAxLjUgMS41IDAgMDAuMDA0LS4wMDcgMS41IDEuNSAwIDAwLjA4LS4xMjUgMS41IDEuNSAwIDAwLjA2Mi0uMTIgMS41IDEuNSAwIDAwLjAwOS0uMDE3IDEuNSAxLjUgMCAwMC4wNC0uMTA4IDEuNSAxLjUgMCAwMC4wMTUtLjAzNyAxLjUgMS41IDAgMDAuMDMtLjEwNyAxLjUgMS41IDAgMDAuMDA5LS4wMzcgMS41IDEuNSAwIDAwLjAxNy0uMSAxLjUgMS41IDAgMDAuMDA4LS4wNSAxLjUgMS41IDAgMDAuMDA2LS4wOSAxLjUgMS41IDAgMDAuMDA0LS4wOFYzLjk0MmExLjUgMS41IDAgMDAwLS4wMDMgMS41IDEuNSAwIDAwMC0uMDMyIDEuNSAxLjUgMCAwMC0uMDEtLjE1IDEuNSAxLjUgMCAwMC0uODQtMS4xN0wxOC4yMDYuMjFhMS41IDEuNSAwIDAwLS42MjItLjE0NnpNMTggNi45MnYxMC4xNjNsLTYuMTk4LTUuMDh6TTMgOC41NzRsMy4wOTkgMy40MjctMy4xIDMuNDI2eiIvPjwvc3ZnPg%3D%3D" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgOC44NzdMMi4yNDcgNS45MWw4LjQwNS0zLjQxNlYuMDIybDcuMzcgNS4zOTNMMi45NjYgOC4zMzh2OC4yMjVMMCAxNS43MDd6bTI0LTQuNDV2MTQuNjUxbC01Ljc1MyA0LjktOS4zMDMtMy4wNTd2My4wNTZsLTUuOTc4LTcuNDE2IDE1LjA1NyAxLjc5OFY1LjQxNXoiLz48L3N2Zz4%3D" alt="Azure DevOps" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4%3D" alt="Windows" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-</p>
+### 👨‍💻 About Me
+
+```csharp
+public class Mykhailo : IDeveloper
+{
+    public string Role          => "Application Engineer";
+    public string[] Platforms   => ["Android", "iOS", "macOS", "Windows"];
+    public string[] Interests   => ["Cross-platform apps", "Open source", "Embedded systems", "DevOps"];
+    public string Currently     => "Fixing Shell, navigation and gesture bugs in .NET MAUI";
+    public string Collaborate   => "Open to .NET MAUI projects";
+    public string Location      => "Ukraine 🇺🇦";
+}
+```
 
 ---
 
-### 📊 GitHub Stats
+### 📦 My .NET MAUI libraries
+
+**[Plugin.Maui.SignaturePad](https://github.com/MykhailoDav/Plugin.Maui.SignaturePad)** &nbsp;
+<a href="https://www.nuget.org/packages/Plugin.Maui.SignaturePad"><img src="https://img.shields.io/nuget/vpre/Plugin.Maui.SignaturePad?label=NuGet&color=512BD4" alt="NuGet" align="center" /></a><br/>
+Signature pad with ink that behaves like a pen: strokes get thinner when drawn fast and thicker when drawn slowly or pressed harder. Exports to PNG, JPEG, SVG and JSON. Android, iOS, Mac Catalyst and Windows.
+
+**[Plugin.Maui.AiChat](https://github.com/MykhailoDav/Plugin.Maui.AiChat)** &nbsp;
+<a href="https://www.nuget.org/packages/Plugin.Maui.AiChat"><img src="https://img.shields.io/nuget/vpre/Plugin.Maui.AiChat?label=NuGet&color=512BD4" alt="NuGet" align="center" /></a><br/>
+An AI chat in one view for any `IChatClient` from Microsoft.Extensions.AI (OpenAI, Claude, Gemini, Azure OpenAI, Ollama…). Streams Markdown without flicker, shows tool calls and asks before the ones that need approval, keeps a history you can save.
+
+### 🤝 Open-source contributions
+
+| Project | About | My PRs |
+|---|---|---|
+| [**dotnet/maui**](https://github.com/dotnet/maui/pulls?q=is%3Apr+author%3AMykhailoDav) | Fixes in Shell navigation, CollectionView / CarouselView, Picker and the Android & iOS handlers | <a href="https://github.com/dotnet/maui/pulls?q=is%3Apr+author%3AMykhailoDav+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Adotnet%2Fmaui%20author%3AMykhailoDav%20is%3Apr%20is%3Amerged&label=merged&color=512BD4" alt="merged PRs in dotnet/maui" /></a> |
+| [**Plugin.Maui.Calendar**](https://github.com/yurkinh/Plugin.Maui.Calendar/pulls?q=is%3Apr+author%3AMykhailoDav) | .NET MAUI port of the Xamarin.Forms calendar plugin | <a href="https://github.com/yurkinh/Plugin.Maui.Calendar/pulls?q=is%3Apr+author%3AMykhailoDav+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Ayurkinh%2FPlugin.Maui.Calendar%20author%3AMykhailoDav%20is%3Apr%20is%3Amerged&label=merged&color=512BD4" alt="merged PRs in Plugin.Maui.Calendar" /></a> |
+| [**SQLiteNetExtensions.Modern**](https://github.com/yurkinh/SQLiteNetExtensions.Modern/pulls?q=is%3Apr+author%3AMykhailoDav) | Modernized SQLite-Net Extensions | <a href="https://github.com/yurkinh/SQLiteNetExtensions.Modern/pulls?q=is%3Apr+author%3AMykhailoDav+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Ayurkinh%2FSQLiteNetExtensions.Modern%20author%3AMykhailoDav%20is%3Apr%20is%3Amerged&label=merged&color=512BD4" alt="merged PRs in SQLiteNetExtensions.Modern" /></a> |
+| [**Plugin.Maui.SegmentedControl**](https://github.com/yurkinh/Plugin.Maui.SegmentedControl/pulls?q=is%3Apr+author%3AMykhailoDav) | .NET MAUI port of the Xamarin.Forms segmented control | <a href="https://github.com/yurkinh/Plugin.Maui.SegmentedControl/pulls?q=is%3Apr+author%3AMykhailoDav+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Ayurkinh%2FPlugin.Maui.SegmentedControl%20author%3AMykhailoDav%20is%3Apr%20is%3Amerged&label=merged&color=512BD4" alt="merged PRs in Plugin.Maui.SegmentedControl" /></a> |
+
+### 🚗 Side project
+
+**[CarDoc](https://github.com/MykhailoDav/CarDocApp)** — OBD-II diagnostics for Android, built with .NET MAUI. Talks to an ELM327 adapter over Bluetooth, reads live engine data, trouble codes and the VIN, and shows them in plain language instead of hex. *Work in progress.*
+
+---
+
+### 📊 Activity
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=MykhailoDav&show_icons=true&count_private=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MykhailoDav&hide_border=true&background=0d1117&stroke=512BD4&ring=512BD4&fire=512BD4&currStreakLabel=512BD4&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MykhailoDav&layout=compact&hide_border=true&title_color=512BD4&text_color=8b949e&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MykhailoDav&hide_border=true&background=00000000&stroke=512BD4&ring=512BD4&fire=512BD4&currStreakLabel=512BD4&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MykhailoDav&layout=compact&hide_border=true&hide=roff&title_color=512BD4&text_color=8b949e&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
