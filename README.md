@@ -19,12 +19,12 @@
 ```csharp
 public class Mykhailo : IDeveloper
 {
-    public string Role          => "Application Engineer";
-    public string[] Platforms   => ["Android", "iOS", "macOS", "Windows"];
-    public string[] Interests   => ["Cross-platform apps", "Open source", "Embedded systems", "DevOps"];
-    public string Currently     => "Fixing Shell, navigation and gesture bugs in .NET MAUI";
-    public string Collaborate   => "Open to .NET MAUI projects";
-    public string Location      => "Ukraine 🇺🇦";
+    public string Role         => "Application Engineer";
+    public string[] Platforms  => ["Android", "iOS", "macOS", "Windows"];
+    public string[] Interests  => ["Cross-platform apps", "DevOps", "Embedded systems"];
+    public string Currently    => "Fixing Shell & navigation bugs in .NET MAUI";
+    public string Collaborate  => "Open to .NET MAUI projects";
+    public string Location     => "Ukraine 🇺🇦";
 }
 ```
 
