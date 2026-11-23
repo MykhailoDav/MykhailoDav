@@ -58,7 +58,6 @@ An AI chat in one view for any `IChatClient` from Microsoft.Extensions.AI (OpenA
 ### 📊 Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MykhailoDav&hide_border=true&background=00000000&stroke=512BD4&ring=512BD4&fire=512BD4&currStreakLabel=512BD4&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" />
   <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MykhailoDav&layout=compact&hide_border=true&hide=roff&title_color=512BD4&text_color=8b949e&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </p>
 
